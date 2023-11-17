@@ -1,0 +1,19 @@
+table,
+th,
+td {
+    border: 1px solid black;
+
+}
+
+th,
+td {
+    padding: 0 2em;
+}
+
+th {
+    font-size: 1.2rem;
+}
+
+.container {
+    padding-top: 7em;
+}
